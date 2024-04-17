@@ -5,7 +5,7 @@
 - 🛠 Contributing to [Hutool ](https://github.com/dromara/hutool)& [Huma](https://github.com/danielgtaylor/huma) & personal iOS products [HeatGPT](https://apps.apple.com/no/app/heatgpt/id6459510964).
 - 🌱: I’m Java and Golang developer in China. 
 - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- ✉️  You can shoot me an email at [Gmail](gg1229505432@gmail.com)! I'll try to respond as soon as I can.
+- ✉️  You can shoot me an email at [gg1229505432@gmail.com] ! I'll try to respond as soon as I can.
 
 
 
@@ -24,7 +24,7 @@
 
 ## 💬  Social
 
-[![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCz0s5YEq0uvqEExTjejvblg) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gg1229505432) [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yenanren_frank/) [![Bilibili](https://img.shields.io/badge/bilibili%20-%23ea7a99.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://space.bilibili.com/3546656091933186)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gg1229505432) [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yenanren_frank/) [![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCz0s5YEq0uvqEExTjejvblg) [![Bilibili](https://img.shields.io/badge/bilibili%20-%23ea7a99.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://space.bilibili.com/3546656091933186)
 
 
 
