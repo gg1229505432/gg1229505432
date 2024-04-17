@@ -15,8 +15,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img alt="Dashboard stats of @gg1229505432" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87351268&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-  <img alt="@gg1229505432's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=87351268&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+  <img alt="Dashboard stats of @gg1229505432" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87351268&image_size=auto&color_scheme=dark" width="40%" height="auto">
+  <img alt="@gg1229505432's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=87351268&activity_type=all&image_size=auto&color_scheme=dark" width="40%" height="auto">
 </a>
 </p>
 
