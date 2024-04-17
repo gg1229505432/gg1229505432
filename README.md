@@ -14,9 +14,9 @@
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-b07219.svg?logo=Java&logoColor=white)  ![Go](https://custom-icon-badges.herokuapp.com/badge/Go-00ADD8.svg?logo=Go&logoColor=white)  ![Swift](https://custom-icon-badges.herokuapp.com/badge/Swift-F05138.svg?logo=Swift&logoColor=white) ![TypeScript](https://custom-icon-badges.herokuapp.com/badge/TypeScript-2b7489.svg?logo=TypeScript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img alt="Dashboard stats of @gg1229505432" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87351268&image_size=auto&color_scheme=dark" width="50%" height="auto">
-  <img alt="@gg1229505432's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=87351268&activity_type=all&image_size=auto&color_scheme=dark" width="50%" height="auto">
+<a href="https://github.com/gg1229505432">
+  <img alt="Dashboard stats of @gg1229505432" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87351268&image_size=auto&color_scheme=dark" width="48%" height="auto">
+  <img alt="@gg1229505432's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=87351268&activity_type=all&image_size=auto&color_scheme=dark" width="48%" height="auto">
 </a>
 </p>
 
