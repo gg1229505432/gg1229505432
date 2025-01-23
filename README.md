@@ -24,7 +24,7 @@
 
 ## 💬  Social
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gg1229505432) [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yenanren_frank/) [![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCz0s5YEq0uvqEExTjejvblg) [![Bilibili](https://img.shields.io/badge/bilibili%20-%23ea7a99.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://space.bilibili.com/3546656091933186)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yenanren_frank/) [![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCz0s5YEq0uvqEExTjejvblg) [![Bilibili](https://img.shields.io/badge/bilibili%20-%23ea7a99.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://space.bilibili.com/3546656091933186)
 
 
 
