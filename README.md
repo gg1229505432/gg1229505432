@@ -2,7 +2,7 @@
 
 ## 🧔 About Me
 
-- 🛠 Contributing to [Hutool ](https://github.com/dromara/hutool)& [Huma](https://github.com/danielgtaylor/huma) & personal iOS products [HeatGPT](https://apps.apple.com/no/app/heatgpt/id6459510964).
+- 🛠 Contributing to [Hutool ](https://github.com/dromara/hutool)& [Gorm](https://github.com/go-gorm/gorm) & personal iOS products [HeatGPT](https://apps.apple.com/no/app/heatgpt/id6459510964).
 - 🌱: I’m Java and Golang developer in China. 
 - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - ✉️  You can shoot me an email at [gg1229505432@gmail.com] ! I'll try to respond as soon as I can.
